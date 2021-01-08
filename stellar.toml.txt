@@ -1,0 +1,5 @@
+VERSION="2.1.0"
+NETWORK_PASSPHRASE="Test SDF Network ; September 2015"
+
+ACCOUNTS=["GC6UIPXLSX7BB3HA52KGAH2BWGQJ4HUM7FUOXJOZC5SPF3P7B7LVBUKR"]
+SQ02_EASTER_EGG="Log into series 2 of Stellar Quest then visit quest.stellar.org/series2. Finally drag and drop your Stellar Quest series 2 badge PNG images onto the screen. Enjoy!"
